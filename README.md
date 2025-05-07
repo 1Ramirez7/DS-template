@@ -1,7 +1,7 @@
 ## Instructions for Setting Up and Using the Repository
 
 This is a Portfolio template, and the instructions are mostly around working with the yml and setting up the website portfolio to be live.
-This steps would also show you h0ow to manage and constantly update your portfolio. The QMD files are mostly empty, but you can add anything you want to them as the goal of this portfolio is to showcase what you can do. 
+This steps would also show you how to manage and constantly update your portfolio. The QMD files are mostly empty, but you can add anything you want to them as the goal of this portfolio is to showcase what you can do. 
 
 
 ## the following is a short list of what is cover in the index.qmd file 
